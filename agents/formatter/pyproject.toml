@@ -1,7 +1,7 @@
 [project]
 name = "formatter"
 version = "0.1.0"
-description = "Add your description here"
+description = "Subtitle formatting agent for SubsGenie"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
