@@ -1,5 +1,7 @@
 packages:
-  - 'apps/*'
-  - 'agents/*'
-  - 'packages/*'
+  - apps/*
+  - agents/*
+  - packages/*
 
+onlyBuiltDependencies:
+  - electron
