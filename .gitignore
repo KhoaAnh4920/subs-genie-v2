@@ -18,3 +18,5 @@ venv/
 *.spec
 
 .agent
+
+reference/
